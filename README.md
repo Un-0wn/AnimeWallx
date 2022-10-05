@@ -9,6 +9,7 @@ AnimeWallx is a wallpaper app that aims to make setting wallpapers easy and with
   The aim of this project is to learn more new concepts in Kotlin :))
 </strong>
   
+<a href="https://github.com/ankidroid/Anki-Android/releases"><img src="https://img.shields.io/github/v/release/ankidroid/Anki-Android" alt="release"/></a>
  
   
 </div>
