@@ -23,7 +23,6 @@ AnimeWallx is a wallpaper app that aims to make setting wallpapers easy and with
 <img src="ss & video/ss3.jpg" height="400"/><img src="ss & video/ss4.jpg" height="400"/>
 <img src="ss & video/ss5.jpg" height="400"/><img src="ss & video/ss6.jpg" height="400"/>
 <img src="ss & video/ss7.jpg" height="400"/>
-<img src="ss/Mvilaa.com_9.webp" height="400"/>
 
 
 https://user-images.githubusercontent.com/76167203/194282179-57c24425-fd15-47da-97cd-6bb38720baf2.mp4
