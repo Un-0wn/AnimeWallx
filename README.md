@@ -9,10 +9,24 @@ AnimeWallx is a wallpaper app that aims to make setting wallpapers easy and with
   The aim of this project is to learn more new concepts in Kotlin :))
 </strong>
   
-<a href="https://github.com/ankidroid/Anki-Android/releases"><img src="https://img.shields.io/github/v/release/ankidroid/Anki-Android" alt="release"/></a>
- 
-  
+<!-- <a href="https://github.com/ankidroid/Anki-Android/releases"><img src="https://img.shields.io/github/v/release/ankidroid/Anki-Android" alt="release"/></a> -->
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![20Analytics](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 </div>
+
+<h3 align="center">~ 🖼Screenshots & Video🖼 ~</h3>
+  
+
+<img src="ss & video/ss1.jpg" height="400"/><img src="ss & video/ss2.jpg" height="400"/>
+<img src="ss & video/ss3.jpg" height="400"/><img src="ss & video/ss4.jpg" height="400"/>
+<img src="ss & video/ss5.jpg" height="400"/><img src="ss & video/ss6.jpg" height="400"/>
+<img src="ss & video/ss7.jpg" height="400"/>
+<img src="ss/Mvilaa.com_9.webp" height="400"/>
+
+
+https://user-images.githubusercontent.com/76167203/194282179-57c24425-fd15-47da-97cd-6bb38720baf2.mp4
 
 <!-- ROADMAP -->
 ## Roadmap for Version <=1 🚧
