@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/76167203/194282179-57c24425-fd15-47da-
 - [x] ~Add functionality to Find wallpaper with color~
 - [ ] Add tag section to find wallpaper with tag
 - [ ] add auto wallpaper changer with the user configuration
-- [x] add favorite page
+- [x] ~add favorite page~
 - [ ] add more UI
 - [ ] more plans coming
 - [ ] Going to learn something new
