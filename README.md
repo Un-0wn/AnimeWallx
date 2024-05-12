@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/76167203/194282179-57c24425-fd15-47da-
 - [x] ~Add blur background to child wallpaper~
 - [x] ~Parse Wallpaper Details~
    - [x] ~Add publisher image~
-   - [x] ~Add wallpaper related color section
+   - [x] ~Add wallpaper related color section~
 - [x] ~Add functionality to save wallpaper and set wallpaper~
    - [x] ~Error handling when save wallpaper and set wallpaper~
 - [x] ~Make a motion layout in Wallpaper detail frame~
